@@ -1,6 +1,5 @@
 # CyberBytes Business Website
-A final for my web development class.
-**Hoi this is Peyoway(known here has peytwoway)**
+A final for my web development class:
 Here are the requirements for this project:
 
 ---
@@ -37,4 +36,9 @@ At least 10 pictures of computers for sale  | ❌
 Each computer should have a few details including: (Name, Specification, Description) | ❌
 Separate the computers by use (gaming, multi-media, productivity, etc.) | ❌
 
+<<<<<<< HEAD
 
+=======
+
+
+>>>>>>> ba27f1353130c252f55a27ef304524fc606339b4
