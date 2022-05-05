@@ -32,5 +32,5 @@ Name
 Specifications
 A short description of the computer
 Separate the computers by use (gaming, multi-media, productivity, etc.)
-
 I'm given two weeks for this project. 
+---
