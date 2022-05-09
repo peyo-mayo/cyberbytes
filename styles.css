@@ -1,10 +1,24 @@
+@font-face {
+  font-family: myfont;
+  src: url(media/myfont.ttf);
+}
+.social {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 3%;
+}
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
+
 body {
-  background: #16064a;
+  background: #2b2834;
+}
+footer a {
+  color: white;
 }
 
 header {
@@ -14,6 +28,25 @@ header {
   padding: 30px 10%;
   background-color: #24252a;
 }
+.minigallery {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+}
+.minigallery img {
+  width: 10%;
+}
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10%;
+  background-color: #24252a;
+  position: absolute;
+  right: 0;bottom:0;left:0;
+}
+
 
 .logo {
   cursor: pointer;
@@ -24,7 +57,6 @@ header {
   color: #46C016;
 }
 .nav__links a, .cta, .overlay__content a {
-  font-family: "Montserrat", sans-serif;
   font-weight: 500;
   color: #edf0f1;
   text-decoration: none;
@@ -38,7 +70,7 @@ header {
 .nav__links li {
   padding: 0px 20px;
 }
-s
+
 .nav__links li a {
   transition: color 0.3s ease 0s;
 }
@@ -48,27 +80,32 @@ s
 }
 .log2 {
   background-color: #ffffff;
-  width: 35%;
+  width: 25%;
   border-right: 2px solid gray;
   border-left: 2px solid gray;
   border-bottom: 2px solid gray;
-  margin: -15px;
+  margin: -134px;
   border-radius: 16px;
 }
 .htdl {
-  width: 70%;
+  width: 100%;
   background-color: red;
   color: white;
-  padding: 10px;
-  margin: 45px;
-  border-radius: 15px;
 }
-/* .fl {
+.htdl img {
+  width: 20%
+}
+.fl {
   float: left;
   color: white;
-}
+} 
 .fr {
   float: right;
   color: white;
-} */
-
+}
+.mylist {
+  color: white;
+}
+p, h1 {
+  padding: 4px;
+}

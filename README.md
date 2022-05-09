@@ -8,9 +8,9 @@ Home Page:
 Task  | Status
 ------------- | -------------
 An appropriate header with the logo for the company  | ✅
-Social media buttons  | ❌
+Social media buttons  | ✅
 Navigation to the other two pages | ✅
-A “Hot Deal” feature that shows their most popular custom computer for sale | ❌
+A “Hot Deal” feature that shows their most popular custom computer for sale | ✅
 Pictures / text that catches the eye | ❌
 A small article that teaches someone how to properly maintain their computer | ❌
 
